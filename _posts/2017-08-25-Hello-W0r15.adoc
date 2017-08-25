@@ -5,4 +5,4 @@
  :hp-alt-title: Code Blog
 
 
-well well this is interesting... a DB-free post in a DB-free blog
+well well this is interesting... a static blog...
