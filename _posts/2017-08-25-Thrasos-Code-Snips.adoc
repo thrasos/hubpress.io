@@ -1,0 +1,6 @@
+= Thrasos
+:hp-image: /covers/cover.png
+:published_at: 2017-08-25
+:hp-tags:  Blog, OpenSource,
+:hp-alt-title: Thrasos Code Snips
+
