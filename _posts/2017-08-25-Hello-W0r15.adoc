@@ -1,5 +1,8 @@
-= Thrasos Secret Code
+= Hello W0r15
  :hp-image: /covers/cover.png
  :published_at: 2017-08-25
  :hp-tags:  Blog, Open_Source,
  :hp-alt-title: Code Blog
+
+
+well well this is interesting... a DB-free post in a DB-free blog
