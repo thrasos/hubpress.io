@@ -1,1 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thrasos]]></title><description><![CDATA[Thrasos secret code]]></description><link>https://thrasos.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 25 Aug 2017 14:04:11 GMT</lastBuildDate><atom:link href="https://thrasos.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thrasos]]></title><description><![CDATA[Thrasos secret code]]></description><link>https://thrasos.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 26 Aug 2017 18:47:45 GMT</lastBuildDate><atom:link href="https://thrasos.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hello W0r15]]></title><description><![CDATA[<div class="literalblock">
+<div class="content">
+<pre>:hp-tags:  Blog, Open_Source,
+:hp-alt-title: Code Blog</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>well well this is interesting&#8230;&#8203; a static blog&#8230;&#8203;</p>
+</div>]]></description><link>https://thrasos.github.io/2017/08/25/Hello-W0r15.html</link><guid isPermaLink="true">https://thrasos.github.io/2017/08/25/Hello-W0r15.html</guid><dc:creator><![CDATA[Thrasos]]></dc:creator><pubDate>Fri, 25 Aug 2017 00:00:00 GMT</pubDate></item></channel></rss>
